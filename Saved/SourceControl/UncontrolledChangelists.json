@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/alext/Game projects/Gam_303/Content/Maps/TestEnviornment.umap",
-				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Maping_Player.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Mapping_Player.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Input_Movement.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Input_Look.uasset",
@@ -16,7 +15,10 @@
 				"C:/Users/alext/Game projects/Gam_303/Content/Interactables/Interact.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Player/BP_GameMode.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Input_Interact.uasset",
-				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Input_Jump.uasset"
+				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/alext/Game projects/Gam_303/Content/Interactables/BP_collectablePickup.uasset",
+				"C:/Users/alext/Game projects/Gam_303/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Maping_Player.uasset"
 			]
 		}
 	]
