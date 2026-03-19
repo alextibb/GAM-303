@@ -1,4 +1,8 @@
 *umap* filter=lfs diff=lfs merge=lfs -text
 *uasset* filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.umaps filter=lfs diff=lfs merge=lfs -text
+=======
+*.umap filter=lfs diff=lfs merge=lfs -text
+>>>>>>> a8a6108b3f22b8d7e4ae312ed930ade454f01379
 *.uasset filter=lfs diff=lfs merge=lfs -text
