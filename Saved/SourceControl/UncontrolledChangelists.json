@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/School stuff/Game Projects/GAM-303/Content/Enemy/Turret/BP_Turret.uasset",
+				"D:/School stuff/Game Projects/GAM-303/Content/Enemy/Turret/BP_TurretProjectile.uasset",
+				"D:/School stuff/Game Projects/GAM-303/Content/Maps/TestEnviornment.umap",
+				"D:/School stuff/Game Projects/GAM-303/Content/Player/BP_PlayerChar.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Maps/TestEnviornment.umap",
 				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Mapping_Player.uasset",
 				"C:/Users/alext/Game projects/Gam_303/Content/Inputs/Input_Movement.uasset",
